@@ -4,7 +4,6 @@ import textwrap
 from ttkthemes import ThemedStyle
 from tkinter import filedialog
 
-
 class GamessGenerator:
     def __init__(self, root):
         self.root = root
