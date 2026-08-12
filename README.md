@@ -1,6 +1,5 @@
-# CyPy
-CyPy-InputBuilder
-
+# MolSpectra
+MolSpectra
 Navigate to Builds/Stable_builds/CyPYInputBulider1.0.py 
 
 **Gamess Input Generator with Tkinter GUI**
